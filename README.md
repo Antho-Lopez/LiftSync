@@ -1,2 +1,2 @@
-# rize_app
- Application Rize
+# Lift_sync
+ Application Lift_sync
